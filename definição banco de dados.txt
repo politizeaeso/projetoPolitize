@@ -1,0 +1,33 @@
+usuário				
+
+usuario_id - uuid
+usuario_nome - String
+usuario_email - String
+usuario_senha - String
+usuario_estado - String
+
+
+Deputado
+
+deputado_id - uuid
+deputado_nome - String
+deputado_partido - String
+deputado_estado - String
+deputado_foto - String
+
+Lei 
+
+lei_id - uuid
+lei_data - date
+lei_resumo - String
+lei_resultado  - bool
+
+Voto
+
+voto_id - uuid
+voto_usuário - bool
+voto_deputado - bool
+voto_resultado - bool
+FK usuario_id 
+FK lei_id 
+FK deputado_id
