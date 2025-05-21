@@ -1,3 +1,3 @@
-import EsqueceuSenha from "./screens/EsqueceuSenhaScreens";
+import EsqueceuSenhaScreens from "./screens/EsqueceuSenhaScreens";
 
-export default EsqueceuSenha;
+export default EsqueceuSenhaScreens;

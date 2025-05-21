@@ -1,3 +1,3 @@
-import DeputadosScreen from "./screens/DeputadoScreens";
+import DeputadosScreens from "./screens/DeputadoScreens";
 
-export default DeputadosScreen;
+export default DeputadosScreens;

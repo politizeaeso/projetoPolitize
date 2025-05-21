@@ -1,3 +1,3 @@
-import RankingScreen from "./screens/RankingScreens";
+import RankingScreens from "./screens/RankingScreens";
 
-export default RankingScreen;
+export default RankingScreens;

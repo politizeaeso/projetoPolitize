@@ -1,3 +1,3 @@
-import ListadeLeis from "./screens/ListadeLeisScreen";
+import ListadeLeisScreen from "./screens/ListadeLeisScreen";
 
-export default ListadeLeis;
+export default ListadeLeisScreen;

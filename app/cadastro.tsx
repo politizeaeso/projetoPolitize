@@ -1,3 +1,3 @@
-import CadastroScreen from "./screens/CadastroScreens";
+import CadastroScreens from "./screens/CadastroScreens";
 
-export default CadastroScreen;
+export default CadastroScreens;

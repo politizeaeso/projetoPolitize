@@ -1,3 +1,3 @@
-import VotacoesScreen from "./screens/VotacoesScreens";
+import VotacoesScreens from "./screens/VotacoesScreens";
 
-export default VotacoesScreen;
+export default VotacoesScreens;
