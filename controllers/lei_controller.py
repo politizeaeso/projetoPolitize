@@ -6,7 +6,7 @@ lei_bp = Blueprint('lei', __name__)
 
 #lista com leis
 @lei_bp.route('/lei', methods=['GET'])
-def listar_lei():
+def listar_leis():
     lei = Lei.query.all()
     lista_lei = [{'id': lei.lei_id, 
                   'data': lei.lei_data,

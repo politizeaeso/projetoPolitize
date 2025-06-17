@@ -30,7 +30,8 @@ def listar_deputados():
        'id': deputado.deputado_id,
        'nome': deputado.deputado_nome,
        'estado': deputado.deputado_estado,
-       'foto': deputado.deputado_foto
+       'foto': deputado.deputado_foto,
+       'siglaPartido': deputado.deputado_partido
        } for deputado in deputados] 
    return jsonify(lista_deputados)
 
